@@ -1,0 +1,5 @@
+38002055060;4. Tartu Linnamaraton;4
+37806135649;34. Tartu Rattaralli;2
+60212243307;9. Tartu Rulluisumaraton
+34501234215;18. Tartu Rattamaraton;1
+34501234215;17. Tartu Rattamaraton;2
